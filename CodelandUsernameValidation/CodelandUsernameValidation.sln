@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodelandUsernameValidation", "CodelandUsernameValidation\CodelandUsernameValidation.csproj", "{2F692740-7BA5-4636-9072-CABDCA9456ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{243125F3-2AA5-4B80-91E6-5B226AD947DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2F692740-7BA5-4636-9072-CABDCA9456ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F692740-7BA5-4636-9072-CABDCA9456ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F692740-7BA5-4636-9072-CABDCA9456ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243125F3-2AA5-4B80-91E6-5B226AD947DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243125F3-2AA5-4B80-91E6-5B226AD947DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243125F3-2AA5-4B80-91E6-5B226AD947DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243125F3-2AA5-4B80-91E6-5B226AD947DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

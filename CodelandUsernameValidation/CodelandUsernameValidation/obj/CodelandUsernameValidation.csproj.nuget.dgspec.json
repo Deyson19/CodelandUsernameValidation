@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {}
+    "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {}
   },
   "projects": {
-    "d:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {
+    "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
+        "projectUniqueName": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
         "projectName": "CodelandUsernameValidation",
-        "projectPath": "d:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
+        "projectPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
         "packagesPath": "C:\\Users\\Deyson\\.nuget\\packages\\",
-        "outputPath": "d:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\obj\\",
+        "outputPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Deyson\\AppData\\Roaming\\NuGet\\NuGet.Config",

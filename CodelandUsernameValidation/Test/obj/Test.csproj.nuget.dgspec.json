@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
+        "projectName": "CodelandUsernameValidation",
+        "projectPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj",
+        "packagesPath": "C:\\Users\\Deyson\\.nuget\\packages\\",
+        "outputPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Deyson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Deyson\\.nuget\\packages\\",
+        "outputPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Deyson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj": {
+                "projectPath": "D:\\Developer\\.NET\\challenges\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation\\CodelandUsernameValidation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -13,59 +13,32 @@ to the following rules:
 If the username is valid then your program should return the string true, otherwise return the string false.*/
 
 using System.Text.RegularExpressions;
+using CodelandUsernameValidation;
 
-public class Program
+public static class Program
 {
     private static void Main(string[] args)
     {
         static string CodelandUsernameValidation(string str)
         {
-
+            var validation = new ValidationProvider();
             // code goes here  
-            var startWith = startWithLetter(str);
-            var _userNameRange = userNameRange(str);
-            var endUnder = endWithUnderScore(str);
-            var isValidWord = lettersNumberAndUnderCore(str);
+            var start = validation.startWithLetter(str);
+            var userNameRange = validation.userNameRange(str);
+            var endUnder = validation.endWithUnderScore(str);
+            var isValidWord = validation.lettersNumberAndUnderCore(str);
 
-            if (startWith && _userNameRange && endUnder && isValidWord)
+            if (start && userNameRange && endUnder && isValidWord)
             {
                 return "true";
             }
             return "false";
         }
 
-        Console.WriteLine("Escribe algo");
+        Console.WriteLine("Write Something");
         Console.WriteLine(CodelandUsernameValidation(Console.ReadLine()));
     }
-    //2. It must start with a letter.
-    static bool startWithLetter(string value) => Char.IsLetter(value[0]);
-    static bool endWithUnderScore(string value)
-    {
-        // 4. It cannot end with an underscore character.
-        return !Char.IsLetter(value[value.Length - 1]);
-    }
-    static bool lettersNumberAndUnderCore(string value)
-    {
-        //*3. It can only contain letters, numbers, and the underscore character.
-        foreach (var c in value)
-        {
-            if (!Char.IsLetter(c) && !Char.IsNumber(c) && c != '_')
-            {
-                return false;
-            }
-        }
-        return true;
 
-    }
-    static bool userNameRange(string value)
-    {
-        //* 1. The username is between 4 and 25 characters.
-        if (value.Length >= 4 && value.Length <= 25)
-        {
-            Console.WriteLine($"{value.Length} is within range");
-            return true;
-        }
-        Console.WriteLine($"{value.Length} is not in range");
-        return false;
-    }
+
+
 }

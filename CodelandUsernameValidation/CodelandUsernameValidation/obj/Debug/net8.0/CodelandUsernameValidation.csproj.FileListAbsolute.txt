@@ -12,3 +12,4 @@ d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidati
 d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.pdb
 d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.genruntimeconfig.cache
 d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\ref\CodelandUsernameValidation.dll
+D:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.sourcelink.json
