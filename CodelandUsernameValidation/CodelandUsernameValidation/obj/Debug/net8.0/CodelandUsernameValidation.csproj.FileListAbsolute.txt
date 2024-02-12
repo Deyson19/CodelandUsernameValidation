@@ -1,0 +1,14 @@
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\bin\Debug\net8.0\CodelandUsernameValidation.exe
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\bin\Debug\net8.0\CodelandUsernameValidation.deps.json
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\bin\Debug\net8.0\CodelandUsernameValidation.runtimeconfig.json
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\bin\Debug\net8.0\CodelandUsernameValidation.dll
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\bin\Debug\net8.0\CodelandUsernameValidation.pdb
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.AssemblyInfoInputs.cache
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.AssemblyInfo.cs
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.csproj.CoreCompileInputs.cache
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.dll
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\refint\CodelandUsernameValidation.dll
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.pdb
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\CodelandUsernameValidation.genruntimeconfig.cache
+d:\Developer\.NET\challenges\CodelandUsernameValidation\CodelandUsernameValidation\CodelandUsernameValidation\obj\Debug\net8.0\ref\CodelandUsernameValidation.dll
